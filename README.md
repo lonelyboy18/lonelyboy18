@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/lonelyboy18/lonelyboy18/main/assets/banner.svg" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/lonelyboy18/lonelyboy18/main/assets/avatar.jpg" width="150" height="150" style="border-radius:50%;border:3px solid #4F8EF7;object-fit:cover;" alt="Wilbur Nathan Fernandes"/>
+<img src="https://raw.githubusercontent.com/lonelyboy18/lonelyboy18/main/assets/avatar.jpg" width="150" alt="Wilbur Nathan Fernandes">
 
 `🎓 BCA` &nbsp;·&nbsp; `🏫 Rosary College of Commerce & Arts` &nbsp;·&nbsp; `📍 Goa, India` &nbsp;·&nbsp; `🗓️ 3rd Year (2024–2027)`
 
