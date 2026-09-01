@@ -266,39 +266,6 @@ Fully functional calculators built in both Python and JavaScript, covering arith
 
 <br>
 
-## `$ curl analytics/github --user=lonelyboy18`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=lonelyboy18&show_icons=true&hide_border=true&bg_color=08091A&title_color=4F8EF7&icon_color=4F8EF7&text_color=9898BB&ring_color=4F8EF7&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.demolab.com/?user=lonelyboy18&hide_border=true&background=08091A&ring=4F8EF7&fire=4F8EF7&currStreakLabel=4F8EF7&sideLabels=9898BB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9898BB" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lonelyboy18&layout=compact&hide_border=true&bg_color=08091A&title_color=4F8EF7&text_color=9898BB&langs_count=10" width="48%"/>
-
-</div>
-
-<br>
-
-## `$ ./trophies.sh --columns 7`
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=lonelyboy18&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8)
-
-</div>
-
-<br>
-
-## `$ plot activity_graph.svg`
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lonelyboy18&bg_color=08091A&color=4F8EF7&line=4F8EF7&point=4F8EF7&area=true&area_color=4F8EF7&hide_border=true)
-
-</div>
-
-<br>
-
 ## `$ generate summary-cards/`
 
 <div align="center">
