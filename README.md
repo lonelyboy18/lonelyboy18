@@ -4,7 +4,7 @@
 
 `🎓 BCA` &nbsp;·&nbsp; `🏫 Rosary College of Commerce & Arts` &nbsp;·&nbsp; `📍 Goa, India` &nbsp;·&nbsp; `🗓️ 3rd Year (2024–2027)`
 
-**[📧 Email](mailto:wilburfernandes8@gmail.com)** &nbsp;|&nbsp; **[🐙 GitHub](https://github.com/lonelyboy18)** &nbsp;|&nbsp; **[📸 Instagram](https://www.instagram.com/wilbur_lonelyboy_18/)**
+<a href="mailto:wilburfernandes8@gmail.com" style="text-decoration:none;"><b>📧 Email</b></a> &nbsp;|&nbsp; <a href="https://github.com/lonelyboy18" style="text-decoration:none;"><b>🐙 GitHub</b></a> &nbsp;|&nbsp; <a href="https://www.instagram.com/wilbur_lonelyboy_18/" style="text-decoration:none;"><b>📸 Instagram</b></a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lonelyboy18&label=Profile%20Views&color=4F8EF7&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/lonelyboy18?label=Followers&style=flat-square&labelColor=08091A&color=4F8EF7)
@@ -89,7 +89,7 @@ Detects chords, tracks BPM, generates guitar/bass tabs, exports MIDI/stems, and 
 | **Scale** | In development (MVP) |
 | **Impact** | AI chord detection, live recognition, tab/sheet-music generation, MIDI & stem export |
 
-**[→ View on GitHub](https://github.com/lonelyboy18)**
+<a href="https://github.com/lonelyboy18" style="text-decoration:none;"><b>→ View on GitHub</b></a>
 </details>
 
 <details>
@@ -104,7 +104,7 @@ Handles student & faculty records, course enrollment, and attendance tracking, b
 | **Scale** | Completed |
 | **Impact** | Encapsulation, inheritance & polymorphism applied to a real record-management workflow |
 
-**[→ View on GitHub](https://github.com/lonelyboy18)**
+<a href="https://github.com/lonelyboy18" style="text-decoration:none;"><b>→ View on GitHub</b></a>
 </details>
 
 <details>
@@ -119,7 +119,7 @@ An AI-powered stock market assistant delivering live buy/sell signals, portfolio
 | **Scale** | In development |
 | **Impact** | Live buy/sell/hold signals, portfolio P&L tracking, AI-explained recommendations |
 
-**[→ View on GitHub](https://github.com/lonelyboy18)**
+<a href="https://github.com/lonelyboy18" style="text-decoration:none;"><b>→ View on GitHub</b></a>
 </details>
 
 <details>
@@ -134,7 +134,7 @@ A feature-rich Discord bot bringing turn-based Pokémon battles, catching, tradi
 | **Scale** | In development |
 | **Impact** | Battle system, collection/trading, full Pokédex lookup, server leaderboards |
 
-**[→ View on GitHub](https://github.com/lonelyboy18)**
+<a href="https://github.com/lonelyboy18" style="text-decoration:none;"><b>→ View on GitHub</b></a>
 </details>
 
 <details>
@@ -149,7 +149,7 @@ A fully responsive personal portfolio showcasing projects, skills, and contact i
 | **Scale** | Completed |
 | **Impact** | Bootstrap grid system, custom CSS styling, cross-device compatibility |
 
-**[→ View on GitHub](https://github.com/lonelyboy18)**
+<a href="https://github.com/lonelyboy18" style="text-decoration:none;"><b>→ View on GitHub</b></a>
 </details>
 
 <details>
@@ -164,7 +164,7 @@ A visually modern UI featuring frosted-glass effects via CSS backdrop-filter and
 | **Scale** | Completed |
 | **Impact** | backdrop-filter/blur effects, layered gradients, z-index management |
 
-**[→ View on GitHub](https://github.com/lonelyboy18)**
+<a href="https://github.com/lonelyboy18" style="text-decoration:none;"><b>→ View on GitHub</b></a>
 </details>
 
 <details>
@@ -179,7 +179,7 @@ A web application built with the Laravel PHP framework following MVC architectur
 | **Scale** | Completed |
 | **Impact** | Routing, controllers, and Blade templating implemented end-to-end |
 
-**[→ View on GitHub](https://github.com/lonelyboy18)**
+<a href="https://github.com/lonelyboy18" style="text-decoration:none;"><b>→ View on GitHub</b></a>
 </details>
 
 <details>
@@ -194,7 +194,7 @@ Fully functional calculators built in both Python and JavaScript, covering arith
 | **Scale** | Completed |
 | **Impact** | Division-by-zero handling, modular functions, dual-language implementation |
 
-**[→ View on GitHub](https://github.com/lonelyboy18)**
+<a href="https://github.com/lonelyboy18" style="text-decoration:none;"><b>→ View on GitHub</b></a>
 </details>
 
 <br>
@@ -347,7 +347,7 @@ me:
 
 <div align="center">
 
-**[📧 Email](mailto:wilburfernandes8@gmail.com)** &nbsp;|&nbsp; **[🐙 GitHub](https://github.com/lonelyboy18)** &nbsp;|&nbsp; **[📸 Instagram](https://www.instagram.com/wilbur_lonelyboy_18/)**
+<a href="mailto:wilburfernandes8@gmail.com" style="text-decoration:none;"><b>📧 Email</b></a> &nbsp;|&nbsp; <a href="https://github.com/lonelyboy18" style="text-decoration:none;"><b>🐙 GitHub</b></a> &nbsp;|&nbsp; <a href="https://www.instagram.com/wilbur_lonelyboy_18/" style="text-decoration:none;"><b>📸 Instagram</b></a>
 
 *"Turning ideas into real-world projects, one commit at a time."*
 
