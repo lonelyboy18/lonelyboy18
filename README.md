@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/lonelyboy18/lonelyboy18/main/assets/banner.svg" width="100%"/>
 
+<br>
+
 `🎓 BCA` &nbsp;·&nbsp; `🏫 Rosary College of Commerce & Arts` &nbsp;·&nbsp; `📍 Goa, India` &nbsp;·&nbsp; `🗓️ 3rd Year (2024–2027)`
 
 <a href="mailto:wilburfernandes8@gmail.com" style="text-decoration:none;"><b>📧 Email</b></a> &nbsp;|&nbsp; <a href="https://github.com/lonelyboy18" style="text-decoration:none;"><b>🐙 GitHub</b></a> &nbsp;|&nbsp; <a href="https://www.instagram.com/wilbur_lonelyboy_18/" style="text-decoration:none;"><b>📸 Instagram</b></a>
