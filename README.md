@@ -2,8 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/lonelyboy18/lonelyboy18/main/assets/banner.svg" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/lonelyboy18/lonelyboy18/main/assets/avatar.jpg" width="150" alt="Wilbur Nathan Fernandes">
-
 `🎓 BCA` &nbsp;·&nbsp; `🏫 Rosary College of Commerce & Arts` &nbsp;·&nbsp; `📍 Goa, India` &nbsp;·&nbsp; `🗓️ 3rd Year (2024–2027)`
 
 **[📧 Email](mailto:wilburfernandes8@gmail.com)** &nbsp;|&nbsp; **[🐙 GitHub](https://github.com/lonelyboy18)** &nbsp;|&nbsp; **[📸 Instagram](https://www.instagram.com/wilbur_lonelyboy_18/)**
