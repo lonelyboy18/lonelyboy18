@@ -6,14 +6,9 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=4F8EF7&background=00000000&center=true&vCenter=true&width=650&height=110&lines=whoami+%3D%3D+Wilbur+Nathan+Fernandes;role+%3D+%22TY+BCA+Student+%40+Rosary+College%22;stack+%3D+%5BPython%2C+Java%2C+React%2C+Node.js%5D;focus+%3D+%22AI+%2F+Full-Stack+%2F+Cybersecurity%22;status+%3D+%22Building%3A+Wilsify+AI+-%3E+Pokeverse+Bot+-%3E+SkillForge+AI%22" alt="Typing SVG" />
 
-![Degree](https://img.shields.io/badge/Degree-BCA-08091A?style=flat-square&labelColor=08091A&color=4F8EF7)
-![Institution](https://img.shields.io/badge/Institution-Rosary_College_of_Commerce_%26_Arts-08091A?style=flat-square&labelColor=08091A&color=4F8EF7)
-![Location](https://img.shields.io/badge/Location-Goa%2C_India-08091A?style=flat-square&labelColor=08091A&color=4F8EF7)
-![Year](https://img.shields.io/badge/Year-3rd_Year_(2024--2027)-08091A?style=flat-square&labelColor=08091A&color=4F8EF7)
+`🎓 BCA` &nbsp;·&nbsp; `🏫 Rosary College of Commerce & Arts` &nbsp;·&nbsp; `📍 Goa, India` &nbsp;·&nbsp; `🗓️ 3rd Year (2024–2027)`
 
-[![Email](https://img.shields.io/badge/Email-wilburfernandes8%40gmail.com-08091A?style=for-the-badge&logo=gmail&logoColor=4F8EF7&labelColor=08091A&color=4F8EF7)](mailto:wilburfernandes8@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-lonelyboy18-08091A?style=for-the-badge&logo=github&logoColor=4F8EF7&labelColor=08091A&color=4F8EF7)](https://github.com/lonelyboy18)
-[![Instagram](https://img.shields.io/badge/Instagram-wilbur__lonelyboy__18-08091A?style=for-the-badge&logo=instagram&logoColor=4F8EF7&labelColor=08091A&color=4F8EF7)](https://www.instagram.com/wilbur_lonelyboy_18/)
+**[📧 Email](mailto:wilburfernandes8@gmail.com)** &nbsp;|&nbsp; **[🐙 GitHub](https://github.com/lonelyboy18)** &nbsp;|&nbsp; **[📸 Instagram](https://www.instagram.com/wilbur_lonelyboy_18/)**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lonelyboy18&label=Profile%20Views&color=4F8EF7&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/lonelyboy18?label=Followers&style=flat-square&labelColor=08091A&color=4F8EF7)
@@ -61,29 +56,13 @@ Pursuing MCA next -- currently focused on ongoing internships & shipping project
 
 **AI / ML & Data Libraries**
 
-![NumPy](https://img.shields.io/badge/NumPy-08091A?style=flat-square&logo=numpy&logoColor=4F8EF7&labelColor=08091A&color=4F8EF7)
-![Pandas](https://img.shields.io/badge/Pandas-08091A?style=flat-square&logo=pandas&logoColor=4F8EF7&labelColor=08091A&color=4F8EF7)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-08091A?style=flat-square&labelColor=08091A&color=4F8EF7)
-![Seaborn](https://img.shields.io/badge/Seaborn-08091A?style=flat-square&labelColor=08091A&color=4F8EF7)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-08091A?style=flat-square&logo=scikitlearn&logoColor=4F8EF7&labelColor=08091A&color=4F8EF7)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-08091A?style=flat-square&logo=tensorflow&logoColor=4F8EF7&labelColor=08091A&color=4F8EF7)
-![Keras](https://img.shields.io/badge/Keras-08091A?style=flat-square&logo=keras&logoColor=4F8EF7&labelColor=08091A&color=4F8EF7)
-![OpenCV](https://img.shields.io/badge/OpenCV-08091A?style=flat-square&logo=opencv&logoColor=4F8EF7&labelColor=08091A&color=4F8EF7)
-![Requests](https://img.shields.io/badge/Requests-08091A?style=flat-square&labelColor=08091A&color=4F8EF7)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-08091A?style=flat-square&labelColor=08091A&color=4F8EF7)
+`NumPy` `Pandas` `Matplotlib` `Seaborn` `Scikit-learn` `TensorFlow` `Keras` `OpenCV` `Requests` `BeautifulSoup`
 
 <br>
 
 ## `$ grep -r "specialty" ./skills`
 
-![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-08091A?style=flat-square&labelColor=08091A&color=4F8EF7)
-![Cybersecurity Fundamentals](https://img.shields.io/badge/Cybersecurity_Fundamentals-08091A?style=flat-square&labelColor=08091A&color=4F8EF7)
-![Network Security](https://img.shields.io/badge/Network_Security-08091A?style=flat-square&labelColor=08091A&color=4F8EF7)
-![Cryptography](https://img.shields.io/badge/Cryptography-08091A?style=flat-square&labelColor=08091A&color=4F8EF7)
-![Ethical Hacking Fundamentals](https://img.shields.io/badge/Ethical_Hacking_Fundamentals-08091A?style=flat-square&labelColor=08091A&color=4F8EF7)
-![Web Security](https://img.shields.io/badge/Web_Security-08091A?style=flat-square&labelColor=08091A&color=4F8EF7)
-![Auth & Authorization](https://img.shields.io/badge/Authentication_%26_Authorization-08091A?style=flat-square&labelColor=08091A&color=4F8EF7)
-![Full-Stack Development](https://img.shields.io/badge/Full--Stack_Development-08091A?style=flat-square&labelColor=08091A&color=4F8EF7)
+`AI/ML` `Cybersecurity Fundamentals` `Network Security` `Cryptography` `Ethical Hacking Fundamentals` `Web Security` `Authentication & Authorization` `Full-Stack Development`
 
 <br>
 
@@ -114,7 +93,7 @@ Detects chords, tracks BPM, generates guitar/bass tabs, exports MIDI/stems, and 
 | **Scale** | In development (MVP) |
 | **Impact** | AI chord detection, live recognition, tab/sheet-music generation, MIDI & stem export |
 
-[![Repo](https://img.shields.io/badge/View-GitHub-08091A?style=flat-square&logo=github&logoColor=4F8EF7&labelColor=08091A&color=4F8EF7)](https://github.com/lonelyboy18)
+**[→ View on GitHub](https://github.com/lonelyboy18)**
 </details>
 
 <details>
@@ -129,7 +108,7 @@ Handles student & faculty records, course enrollment, and attendance tracking, b
 | **Scale** | Completed |
 | **Impact** | Encapsulation, inheritance & polymorphism applied to a real record-management workflow |
 
-[![Repo](https://img.shields.io/badge/View-GitHub-08091A?style=flat-square&logo=github&logoColor=4F8EF7&labelColor=08091A&color=4F8EF7)](https://github.com/lonelyboy18)
+**[→ View on GitHub](https://github.com/lonelyboy18)**
 </details>
 
 <details>
@@ -144,7 +123,7 @@ An AI-powered stock market assistant delivering live buy/sell signals, portfolio
 | **Scale** | In development |
 | **Impact** | Live buy/sell/hold signals, portfolio P&L tracking, AI-explained recommendations |
 
-[![Repo](https://img.shields.io/badge/View-GitHub-08091A?style=flat-square&logo=github&logoColor=4F8EF7&labelColor=08091A&color=4F8EF7)](https://github.com/lonelyboy18)
+**[→ View on GitHub](https://github.com/lonelyboy18)**
 </details>
 
 <details>
@@ -159,7 +138,7 @@ A feature-rich Discord bot bringing turn-based Pokémon battles, catching, tradi
 | **Scale** | In development |
 | **Impact** | Battle system, collection/trading, full Pokédex lookup, server leaderboards |
 
-[![Repo](https://img.shields.io/badge/View-GitHub-08091A?style=flat-square&logo=github&logoColor=4F8EF7&labelColor=08091A&color=4F8EF7)](https://github.com/lonelyboy18)
+**[→ View on GitHub](https://github.com/lonelyboy18)**
 </details>
 
 <details>
@@ -174,7 +153,7 @@ A fully responsive personal portfolio showcasing projects, skills, and contact i
 | **Scale** | Completed |
 | **Impact** | Bootstrap grid system, custom CSS styling, cross-device compatibility |
 
-[![Repo](https://img.shields.io/badge/View-GitHub-08091A?style=flat-square&logo=github&logoColor=4F8EF7&labelColor=08091A&color=4F8EF7)](https://github.com/lonelyboy18)
+**[→ View on GitHub](https://github.com/lonelyboy18)**
 </details>
 
 <details>
@@ -189,7 +168,7 @@ A visually modern UI featuring frosted-glass effects via CSS backdrop-filter and
 | **Scale** | Completed |
 | **Impact** | backdrop-filter/blur effects, layered gradients, z-index management |
 
-[![Repo](https://img.shields.io/badge/View-GitHub-08091A?style=flat-square&logo=github&logoColor=4F8EF7&labelColor=08091A&color=4F8EF7)](https://github.com/lonelyboy18)
+**[→ View on GitHub](https://github.com/lonelyboy18)**
 </details>
 
 <details>
@@ -204,7 +183,7 @@ A web application built with the Laravel PHP framework following MVC architectur
 | **Scale** | Completed |
 | **Impact** | Routing, controllers, and Blade templating implemented end-to-end |
 
-[![Repo](https://img.shields.io/badge/View-GitHub-08091A?style=flat-square&logo=github&logoColor=4F8EF7&labelColor=08091A&color=4F8EF7)](https://github.com/lonelyboy18)
+**[→ View on GitHub](https://github.com/lonelyboy18)**
 </details>
 
 <details>
@@ -219,7 +198,7 @@ Fully functional calculators built in both Python and JavaScript, covering arith
 | **Scale** | Completed |
 | **Impact** | Division-by-zero handling, modular functions, dual-language implementation |
 
-[![Repo](https://img.shields.io/badge/View-GitHub-08091A?style=flat-square&logo=github&logoColor=4F8EF7&labelColor=08091A&color=4F8EF7)](https://github.com/lonelyboy18)
+**[→ View on GitHub](https://github.com/lonelyboy18)**
 </details>
 
 <br>
@@ -271,7 +250,7 @@ Fully functional calculators built in both Python and JavaScript, covering arith
 | Advanced Excel | Advanced Microsoft Excel Course | Pivot tables, VLOOKUP/XLOOKUP, macros, data visualisation |
 | Stock Market Workshop | Financial Markets & Investment Workshop | Trading strategies, technical analysis, investment fundamentals |
 
-[![BCA](https://img.shields.io/badge/BCA-Rosary_College_of_Commerce_%26_Arts-08091A?style=for-the-badge&logo=googlescholar&logoColor=4F8EF7&labelColor=08091A&color=4F8EF7)](#)
+`🎓 BCA — Rosary College of Commerce & Arts (2024–2027)`
 
 <br>
 
@@ -372,9 +351,7 @@ me:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-08091A?style=for-the-badge&logo=gmail&logoColor=4F8EF7&labelColor=08091A&color=4F8EF7)](mailto:wilburfernandes8@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-08091A?style=for-the-badge&logo=github&logoColor=4F8EF7&labelColor=08091A&color=4F8EF7)](https://github.com/lonelyboy18)
-[![Instagram](https://img.shields.io/badge/Instagram-08091A?style=for-the-badge&logo=instagram&logoColor=4F8EF7&labelColor=08091A&color=4F8EF7)](https://www.instagram.com/wilbur_lonelyboy_18/)
+**[📧 Email](mailto:wilburfernandes8@gmail.com)** &nbsp;|&nbsp; **[🐙 GitHub](https://github.com/lonelyboy18)** &nbsp;|&nbsp; **[📸 Instagram](https://www.instagram.com/wilbur_lonelyboy_18/)**
 
 *"Turning ideas into real-world projects, one commit at a time."*
 
