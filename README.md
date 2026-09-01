@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:08091A,100:9B59F5&height=200&section=header&text=Wilbur%20Nathan%20Fernandes&fontColor=4F8EF7&fontSize=42&fontAlignY=40&desc=AI%20%26%20Full-Stack%20Developer%20%7C%20BCA%20Student%20%7C%20Cybersecurity%20Enthusiast&descAlignY=62&descColor=9898BB&animation=fadeIn" width="100%"/>
+<img src="https://raw.githubusercontent.com/lonelyboy18/lonelyboy18/main/assets/banner.svg" width="100%"/>
 
 <img src="https://raw.githubusercontent.com/lonelyboy18/lonelyboy18/main/assets/avatar.jpg" width="150" height="150" style="border-radius:50%;border:3px solid #4F8EF7;object-fit:cover;" alt="Wilbur Nathan Fernandes"/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=4F8EF7&background=00000000&center=true&vCenter=true&width=650&height=110&lines=whoami+%3D%3D+Wilbur+Nathan+Fernandes;role+%3D+%22TY+BCA+Student+%40+Rosary+College%22;stack+%3D+%5BPython%2C+Java%2C+React%2C+Node.js%5D;focus+%3D+%22AI+%2F+Full-Stack+%2F+Cybersecurity%22;status+%3D+%22Building%3A+Wilsify+AI+-%3E+Pokeverse+Bot+-%3E+SkillForge+AI%22" alt="Typing SVG" />
 
 `🎓 BCA` &nbsp;·&nbsp; `🏫 Rosary College of Commerce & Arts` &nbsp;·&nbsp; `📍 Goa, India` &nbsp;·&nbsp; `🗓️ 3rd Year (2024–2027)`
 
@@ -357,4 +355,4 @@ me:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:9B59F5,100:08091A&height=120&section=footer" width="100%"/>
+<img src="https://raw.githubusercontent.com/lonelyboy18/lonelyboy18/main/assets/footer.svg" width="100%"/>

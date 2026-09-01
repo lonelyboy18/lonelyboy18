@@ -1,0 +1,17 @@
+<svg width="1200" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#08091A"/>
+      <stop offset="100%" stop-color="#1B1042"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4F8EF7"/>
+      <stop offset="100%" stop-color="#9B59F5"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="200" fill="url(#bg)"/>
+  <rect y="0" width="1200" height="4" fill="url(#accent)"/>
+  <rect y="196" width="1200" height="4" fill="url(#accent)"/>
+  <text x="600" y="98" font-family="'Fira Code', 'Courier New', monospace" font-size="42" font-weight="700" fill="#4F8EF7" text-anchor="middle">Wilbur Nathan Fernandes</text>
+  <text x="600" y="138" font-family="'Fira Code', 'Courier New', monospace" font-size="17" fill="#9898BB" text-anchor="middle">AI &amp; Full-Stack Developer  |  BCA Student  |  Cybersecurity Enthusiast</text>
+</svg>
