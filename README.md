@@ -1,10 +1,10 @@
 <div align="center">
 
-![Intro](./assets/hero.svg?v=1)
+<a href="https://github.com/lonelyboy18"><img src="./assets/hero.svg?v=1" alt="Intro" width="100%"></a>
 
-![About](./assets/about-life.svg?v=1)
+<a href="https://github.com/lonelyboy18"><img src="./assets/about-life.svg?v=1" alt="About" width="100%"></a>
 
-![Stack](./assets/stack.svg?v=1)
+<a href="https://github.com/lonelyboy18?tab=repositories"><img src="./assets/stack.svg?v=1" alt="Stack" width="100%"></a>
 
 </div>
 
@@ -35,9 +35,22 @@
 
 </details>
 
-![ID](./assets/id-dashboard.svg?v=1)
+<div align="center">
 
-![Connect](./assets/connect.svg?v=2)
+<a href="https://github.com/lonelyboy18"><img src="./assets/id-dashboard.svg?v=1" alt="ID" width="100%"></a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/lonelyboy18"><img src="./assets/connect.svg?v=3" alt="Connect" width="100%"></a>
+
+<a href="https://github.com/lonelyboy18"><img src="./assets/card-github.svg?v=1" alt="GitHub" width="49%"></a>
+<a href="https://www.instagram.com/wilbur_lonelyboy_18/"><img src="./assets/card-instagram.svg?v=1" alt="Instagram" width="49%"></a>
+<a href="mailto:wilburfernandes8@gmail.com"><img src="./assets/card-email.svg?v=1" alt="Email" width="49%"></a>
+<a href="https://discord.com/users/1429848989112733799"><img src="./assets/card-discord.svg?v=1" alt="Discord" width="49%"></a>
+
+</div>
 
 <p align="center">
   <a href="https://github.com/lonelyboy18"><b>GitHub</b></a> &nbsp;|&nbsp;
