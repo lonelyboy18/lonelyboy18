@@ -52,11 +52,4 @@
 
 </div>
 
-<p align="center">
-  <a href="https://github.com/lonelyboy18"><b>GitHub</b></a> &nbsp;|&nbsp;
-  <a href="https://www.instagram.com/wilbur_lonelyboy_18/"><b>Instagram</b></a> &nbsp;|&nbsp;
-  <a href="mailto:wilburfernandes8@gmail.com"><b>Email</b></a> &nbsp;|&nbsp;
-  <a href="https://discord.com/users/1429848989112733799"><b>Discord</b></a>
-</p>
-
 <p align="center"><i>Turning ideas into real-world projects, one commit at a time.</i></p>
