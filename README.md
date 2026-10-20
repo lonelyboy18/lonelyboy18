@@ -37,7 +37,7 @@
 
 ![ID](./assets/id-dashboard.svg?v=1)
 
-![Connect](./assets/connect.svg?v=1)
+![Connect](./assets/connect.svg?v=2)
 
 <p align="center">
   <a href="https://github.com/lonelyboy18"><b>GitHub</b></a> &nbsp;|&nbsp;
